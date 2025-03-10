@@ -8,5 +8,5 @@ gi con valores booleanos (V,F)
 y = not True
 print('el resultado de operar con not es',y)
 #ejemplo 2
-y = True and True
+y = False and True
 print('el resultado de operar con and es',y)
